@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T11:08:51 WAT" name="Default suite" finished-at="2022-02-19T11:08:59 WAT" duration-ms="8389">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T11:08:51 WAT" name="Default test" finished-at="2022-02-19T11:08:59 WAT" duration-ms="8389">
+      <class name="Get_UserId">
+        <test-method signature="userId()[pri:0, instance:Get_UserId@7c469c48]" started-at="2022-02-19T11:08:56 WAT" name="userId" finished-at="2022-02-19T11:08:59 WAT" duration-ms="2815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userId -->
+      </class> <!-- Get_UserId -->
+      <class name="Get_UserId$Get_random_user">
+        <test-method signature="random_user()[pri:0, instance:Get_UserId$Get_random_user@1ed1993a]" started-at="2022-02-19T11:08:51 WAT" name="random_user" finished-at="2022-02-19T11:08:55 WAT" duration-ms="4634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- random_user -->
+      </class> <!-- Get_UserId$Get_random_user -->
+      <class name="Get_UserId$Get_user_post">
+        <test-method signature="user_post()[pri:0, instance:Get_UserId$Get_user_post@1f3f4916]" started-at="2022-02-19T11:08:55 WAT" name="user_post" finished-at="2022-02-19T11:08:56 WAT" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_post -->
+      </class> <!-- Get_UserId$Get_user_post -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
